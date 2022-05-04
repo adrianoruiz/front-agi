@@ -1,4 +1,4 @@
-# front-swapi
+# front-swapi-test
 
 # 1- Install quasar-framework
 
